@@ -6,8 +6,8 @@ Software Developer
 
 A people-oriented software developer who is enthusiastic about creative and efficient problem-solving. Passionate about lifelong learning and building applications that empower individuals’ day-to-day life.
 
-* 🌍  I'm based in Vancouver, BC, Canada
-* 🖥️  See my portfolio at [MyPortfolio](http://caiachuang.com/)
+* 🌍  I'm based in Canada
+* 🖥️  See my portfolio at [caiachuang.com](http://caiachuang.com/)
 * ✉️  You can contact me at [caiachuang@gmail.com](mailto:caiachuang@gmail.com)
 * 🧠  I'm learning C
 
