@@ -53,8 +53,4 @@ A people-oriented software developer who is enthusiastic about creative and effi
 
 ### GitHub Stats
 
-<a href="http://www.github.com/CaiaCC"><img src="https://github-readme-stats-eta-hazel-93.vercel.app/api?username=CaiaCC&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="CaiaCC's GitHub stats" /></a>
-
-<a href="http://www.github.com/CaiaCC"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiaCC&stroke=ffffff&background=1e3a8a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/CaiaCC" align="left"><img src="https://github-readme-stats-eta-hazel-93.vercel.app/api/top-langs/?username=CaiaCC&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
